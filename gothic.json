@@ -1,0 +1,34 @@
+{
+	"fire":[
+		"thorny bushes",
+		"wildfires",
+		"lightning storms",
+		"campgrounds",
+		"jalepeños"
+	],
+
+	"air":[
+		"wind blowing through trees",
+		"soft pines",
+		"marble walls",
+		"the smell of old books",
+		"lemons and limes"
+	],
+
+	"earth":[
+		"open fields",
+		"red canyons",
+		"dark dirt",
+		"solid oaks",
+		"strawberry milkshakes"
+	],
+
+	"water":[
+		"strong willows",
+		"a clear lakeview",
+		"crashing waves",
+		"hot beaches",
+		"an unending rainforest",
+		"pineapple smoothies"
+	]
+}
